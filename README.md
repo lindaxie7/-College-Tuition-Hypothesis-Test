@@ -13,6 +13,9 @@ Gathered our data by using publicly available information online that reports th
 
 ### Results
 
+Using t.test command with alternative=“two.sided” option, I obtained the 98% confidence interval of mean difference of (-24317.94, -13917.60). Hence at the 98% confidence level, I can conclude that the mean cost of attendance of public colleges is less than cost of attendance of private colleges.
+
+
 ![Untitled2](https://user-images.githubusercontent.com/38533045/144084076-6591ec2a-73b7-4f38-88cf-0ee14229e34d.png)
 
-Using t.test command with alternative=“two.sided” option, I obtained the 98% confidence interval of mean difference of (-24317.94, -13917.60). Hence at the 98% confidence level, I can conclude that the mean cost of attendance of public colleges is less than cost of attendance of private colleges.
+
