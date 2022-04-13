@@ -1,4 +1,4 @@
-# -College-Tuition-Hypothesis-Test
+# Hypothesis-Test_College-Tuition
 
 ## Overview of Project
 
